@@ -1,0 +1,4 @@
+Revision history for Perl extension Plack::Handler::SCGI
+
+0.01  Sun Jan 31 04:46:55 2010
+        - original version
