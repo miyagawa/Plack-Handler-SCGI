@@ -116,7 +116,7 @@ __END__
 
 =head1 NAME
 
-Plack::Handler::SCGI - PSGI server on SCGI
+Plack::Handler::SCGI - PSGI handler on SCGI daemon
 
 =head1 SYNOPSIS
 

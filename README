@@ -1,5 +1,5 @@
 NAME
-    Plack::Handler::SCGI - PSGI server on SCGI
+    Plack::Handler::SCGI - PSGI handler on SCGI daemon
 
 SYNOPSIS
       plackup -s SCGI
