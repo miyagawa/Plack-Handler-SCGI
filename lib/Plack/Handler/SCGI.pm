@@ -120,7 +120,7 @@ Plack::Handler::SCGI - PSGI handler on SCGI daemon
 
 =head1 SYNOPSIS
 
-  plackup -s SCGI
+  plackup -s SCGI --port 22222
 
 =head1 DESCRIPTION
 

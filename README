@@ -2,7 +2,7 @@ NAME
     Plack::Handler::SCGI - PSGI handler on SCGI daemon
 
 SYNOPSIS
-      plackup -s SCGI
+      plackup -s SCGI --port 22222
 
 DESCRIPTION
     Plack::Handler::SCGI is a standalone SCGI daemon using SCGI
