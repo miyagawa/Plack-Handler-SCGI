@@ -68,6 +68,7 @@ sub handle_request {
         'psgi.run_once'     => Plack::Util::FALSE,
         'psgi.streaming'    => Plack::Util::TRUE,
         'psgi.nonblocking'  => Plack::Util::FALSE,
+        'psgix.input.buffered' => Plack::Util::FALSE,
     };
 
     my $res = Plack::Util::run_app $app, $env;
